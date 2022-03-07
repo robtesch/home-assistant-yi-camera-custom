@@ -3,8 +3,7 @@
   "name": "Yi Camera Custom",
   "documentation": "https://github.com/robtesch/home-assistant-yi-camera-custom",
   "issue_tracker": "https://github.com/robtesch/home-assistant-yi-camera-custom/issues",
-  "dependencies": [],
+  "dependencies": ["http"],
   "codeowners": ["@robtesch"],
-  "requirements": ["requests==2.25.0"],
-  "version": "1.2"
+  "version": "1.3"
 }
